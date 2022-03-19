@@ -16,7 +16,7 @@ I'm 19 years old. I'm a studet of PSU (Faculty of Information Technology). I sta
 ## Skills
 
 * HTML;
-* CSS (Framework Bootstrap, Preprocessor SASS, BEM methodology);
+* CSS;
 * JavaScript;
 * Figma(for web development).
 
